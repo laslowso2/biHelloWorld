@@ -1,0 +1,9 @@
+/*
+### Try Service: 'hello' (http://localhost:9090/hello)
+
+*/
+/*
+#### GET /greeting
+
+*/
+GET http://localhost:9090/hello/greeting
